@@ -88,9 +88,7 @@ class College:
    
 # college-->student  # done  
  
-# student is bind with a college
-# attributes -- name, rollno, age
-# methods (marks/grades)
+
 # sub class
 class Student(College):
     def __init__(self, stuname, rollno, age,address,affilated_to, courses_provided):
