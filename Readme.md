@@ -3,13 +3,13 @@
  
 #College/Institute class(master)---> Student class (attributes/methods) ---> Course class (attributes/methods) ---> Person class
 #handle both Student & Course
-# what type of inheritance i can use ?
-# College,Student,Course
-# tejaswi --> hie inheritance
-# pranav --> multilevel
-# aditya --> multilevel
+what type of inheritance i can use ?
+College,Student,Course
+tejaswi --> hie inheritance
+pranav --> multilevel
+aditya --> multilevel
  
-# dependencies
+### dependencies
 """   College(one) --> Students(many) ---> Course(many) ---> Person   (relationships)
  
 types of relationships --
@@ -31,11 +31,11 @@ many to many (Hybrid)
  
  
  
-# attributes
-# address, affilated_to, courses_provided
-# methods (getters/setters)
-# Multilevel inheritance
+attributes
+address, affilated_to, courses_provide
+methods (getters/setters)
+Multilevel inheritance
 
-# student is bind with a college
-# attributes -- name, rollno, age
-# methods (marks/grades)
+student is bind with a college
+attributes -- name, rollno, age
+methods (marks/grades)
